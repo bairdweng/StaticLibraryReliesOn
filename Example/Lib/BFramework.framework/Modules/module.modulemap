@@ -1,0 +1,6 @@
+framework module BFramework {
+  umbrella header "BFramework.h"
+
+  export *
+  module * { export * }
+}
